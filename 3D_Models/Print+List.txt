@@ -1,0 +1,19 @@
+...STRUCTURE...
+Strut x27
+Strut Input x3
+
+...COVERS...
+Cap x19
+Cap input x1
+Cover x30
+
+...POWER SUPPLY...
+Power SUpply Base x1
+Power Supply Mid x1
+Power Supply Top x1
+
+...MISC...
+Stand x1
+
+NOTE, if power injection is needed, print 18x 'Strut', and 12x 'Strut Input'.
+
