@@ -1,0 +1,3 @@
+I spent some time studying the geometry of the dodecahedron, and thinking about how the LED strip snakes around it. Each edge will contain 17 LEDS at 144LED/M, so total LEDs will be 510. I analyzed a useful wiring diagram that I found online so I could understand how the data signal flows through the entire structure.
+
+![image](https://cdn.hackclub.com/019e22c0-5d1a-712f-bf13-907d44b76180/Dodecahedron%20LED%20Map%20(3).jpg)
