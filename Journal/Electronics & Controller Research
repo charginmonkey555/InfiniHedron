@@ -1,0 +1,5 @@
+I researched which microcontroller to use. Many builds use Arduino or ESP32. I compared them and learned that Arduino Mega is stable for long LED chains, but is also very large, while ESP32 offers WiFi control at a more compact size. I also learned about level shifting, data line resistors, and capacitors for LED stability. For the software I am going to use WLED for its range of effects, WiFi capability, and ease of use.
+
+![image](https://cdn.hackclub.com/019e22dd-1d61-7d40-ad41-aad31b9bbc6f/image.png)
+![image](https://cdn.hackclub.com/019e22dd-4811-7b5a-bcba-a3e674fe7b22/image.png)
+![image](https://cdn.hackclub.com/019e22dd-d973-7ecf-9ade-dadadc5c7d39/image.png)
