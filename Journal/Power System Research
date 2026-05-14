@@ -1,0 +1,3 @@
+I calculated the power requirements for 510 WS2812B LEDs. At 60mA per LED, the total is around 30.6A at 5V. I researched how to safely power large LED installations such as this and learned about voltage drop, power injection, and wire gauge. I also looked at different 5V power supplies that fit the budget.
+
+![image](https://cdn.hackclub.com/019e22d9-62d1-759a-a9c1-cc80e531903b/image.png)
