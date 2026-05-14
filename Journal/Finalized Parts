@@ -1,0 +1,31 @@
+I figured out exactly what parts I am getting and exactly from where. First of all, 
+
+ACRYLIC: I looked for the cheapest place that I could get good, high quality acrylic in the size I need. The size I was looking for was 2ft x 3ft. However, it really depends on the dimensions of my school's laser cutter because if the sheet is too large, then I will have to get multiple smaller pieces instead.
+
+![image](https://cdn.hackclub.com/019e2775-3bf4-74c1-9927-19a0906f2e3b/image.png)
+
+This is my first option, but I will have another option available in case my school's laser cutter is not large enough. I would need 12 of these:
+
+![image](https://cdn.hackclub.com/019e2779-c843-7764-a8cd-646ea3ab0f50/image.png)
+
+RGB STRIP: I chose WS2812B RGB strips for their reliability and ease of use. I will get them from ali express.
+
+![image](https://cdn.hackclub.com/019e2806-dd8e-7ef6-a955-574228a53cab/image.png)
+
+PSU: I chose a simple 5V 30A PSU from amazon that WONT blow up...
+
+![image](https://cdn.hackclub.com/019e2808-081c-775e-b4ac-acd60be6b369/image.png)
+
+Filament: I chose reliable Sunlu black matte  filament which will look better than gloss because layer lines will show less.
+
+![image](https://cdn.hackclub.com/019e2809-41b7-7418-9603-eac61e683197/image.png)
+
+WIRES: For the power cables I will use 20AWG 1mm single core wire, 510 LEDs draw a lot of current depending on the pattern so I wouldn’t go with anything thinner just in case. For the data wire, standard 0.13mm stranded copper wire works fine.
+
+![image](https://cdn.hackclub.com/019e2811-d7ab-7ced-bf9a-5b6afc84a850/image.png)
+
+![image](https://cdn.hackclub.com/019e2813-39d0-7c7e-ab95-f8496206b72b/image.png)
+
+MICROCONTROLLER: I am just going to choose a simple ESP-32 from aliexpress because it has WiFi support, and I want to drive the LEDs using W-LED which needs WiFi to connect to a phone/PC.
+
+![image](https://cdn.hackclub.com/019e2814-a0d8-76f6-9486-277ffa9266c9/image.png)
